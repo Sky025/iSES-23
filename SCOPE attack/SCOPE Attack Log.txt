@@ -1,0 +1,204 @@
+==========================================  SCOPE Attack Phase  ==================================================
+SCOPE Attack for c880_K32_0.bench
+COPE metric: 0.119642445036 %
+original_key :  11100001010111000111011110000100
+extracted_key : Please check the folder extracted_keys/c880_K32_0/ for extracted key variants
+1. 00X1X1XXX0XX0X10XX10110XXX001011
+2. 11X0X0XXX1XX1X01XX01001XXX110100
+SCOPE Attack for c880_K32_0.bench Ended,    Runtime: 2.0 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c880_K64_0.bench
+COPE metric: 0.119720717742 %
+original_key :  0110001001001101011101100000011101110111000111100000001011001111
+extracted_key : Please check the folder extracted_keys/c880_K64_0/ for extracted key variants
+1. X000011XXX0000XXX0XX001X11X10XX111X11XX100X001X1X1XX111X11XX0XX0
+2. X111100XXX1111XXX1XX110X00X01XX000X00XX011X110X0X0XX000X00XX1XX1
+SCOPE Attack for c880_K64_0.bench Ended,    Runtime: 3.81 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c880_K128_0.bench
+COPE metric: 0.0530173606936 %
+original_key :  01110100001000011001110101000000100110010100101001111001001011110110010101000111000010111111111100101001111010110110000111010010
+extracted_key : Please check the folder extracted_keys/c880_K128_0/ for extracted key variants
+1. 100XX1XX00XX1101X1001X101011XXX1X0XXXX01X11X01XX10X0101X01XXXX00X00011XX10X0XXXX01X1XXXXX0XX0X00XXX1X010XXXXXX0XX0X0XXXXXX01XXX1
+2. 011XX0XX11XX0010X0110X010100XXX0X1XXXX10X00X10XX01X1010X10XXXX11X11100XX01X1XXXX10X0XXXXX1XX1X11XXX0X101XXXXXX1XX1X1XXXXXX10XXX0
+SCOPE Attack for c880_K128_0.bench Ended,    Runtime: 8.5 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1355_K32_0.bench
+COPE metric: 0.195162099624 %
+original_key :  11000100000101110011111110101000
+extracted_key : Please check the folder extracted_keys/c1355_K32_0/ for extracted key variants
+1. 0011XXX11XX0000X11100XX001X111X0
+2. 1100XXX00XX1111X00011XX110X000X1
+SCOPE Attack for c1355_K32_0.bench Ended,    Runtime: 2.27 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1355_K64_0.bench
+COPE metric: 0.165029897222 %
+original_key :  1001011111000101110100001010100000001011110101001101001101111010
+extracted_key : Please check the folder extracted_keys/c1355_K64_0/ for extracted key variants
+1. 010110010000X01X0X10X1X1010X011X110X010X001100X00110110010X01X10
+2. 101001101111X10X1X01X0X0101X100X001X101X110011X11001001101X10X01
+SCOPE Attack for c1355_K64_0.bench Ended,    Runtime: 4.36 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1355_K128_0.bench
+COPE metric: 0.144493778784 %
+original_key :  10110010111110000111011110100100010000101000000000000111000010110001110111101001010111101011110001011101111010100101101110010010
+extracted_key : Please check the folder extracted_keys/c1355_K128_0/ for extracted key variants
+1. 1XX0110100000101000010001X0X01010X11010X01X1101011111100101X100110110X10001111011010X0000111001X101X0010X00101X1101000100100010X
+2. 0XX1001011111010111101110X1X10101X00101X10X0010100000011010X011001001X01110000100101X1111000110X010X1101X11010X0010111011011101X
+SCOPE Attack for c1355_K128_0.bench Ended,    Runtime: 8.97 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1908_K32_0.bench
+COPE metric: 0.518134327764 %
+original_key :  10101011011101001000110010001011
+extracted_key : Please check the folder extracted_keys/c1908_K32_0/ for extracted key variants
+1. 11XX0X00110XX01X01X1X0XX0X101X0X
+2. 00XX1X11001XX10X10X0X1XX1X010X1X
+SCOPE Attack for c1908_K32_0.bench Ended,    Runtime: 2.61 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1908_K64_0.bench
+COPE metric: 0.175792917163 %
+original_key :  1001001110000010001111101001110110100000110111110101100110001001
+extracted_key : Please check the folder extracted_keys/c1908_K64_0/ for extracted key variants
+1. X11010X0011XX1XX100000XX01100000XX10X10XX0X0X0X0X0XX01100X1X01XX
+2. X00101X1100XX0XX011111XX10011111XX01X01XX1X1X1X1X1XX10011X0X10XX
+SCOPE Attack for c1908_K64_0.bench Ended,    Runtime: 4.76 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c1908_K128_0.bench
+COPE metric: 0.153676777601 %
+original_key :  10011000010010111101000001000000111111101100101110011111100101111101110001000001101101110111010011010100100001111101001000001000
+extracted_key : Please check the folder extracted_keys/c1908_K128_0/ for extracted key variants
+1. X1X001111XXX1100XX11111X1XX1XXX1XXX01XX0XXX101XX01XXX0X1XXX00X10001XX111X0X00XX1X1X000X101XX00XX0XX1XX1X0111X00XX0X01X10X11XXX1X
+2. X0X110000XXX0011XX00000X0XX0XXX0XXX10XX1XXX010XX10XXX1X0XXX11X01110XX000X1X11XX0X0X111X010XX11XX1XX0XX0X1000X11XX1X10X01X00XXX0X
+SCOPE Attack for c1908_K128_0.bench Ended,    Runtime: 10.11 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c2670_K32_0.bench
+COPE metric: 0.292657935104 %
+original_key :  11000000100111001111011011100001
+extracted_key : Please check the folder extracted_keys/c2670_K32_0/ for extracted key variants
+1. 01011XX10X0001X0X00X1001010X101X
+2. 10100XX01X1110X1X11X0110101X010X
+SCOPE Attack for c2670_K32_0.bench Ended,    Runtime: 3.07 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c2670_K64_0.bench
+COPE metric: 0.158807938551 %
+original_key :  1001101111101100000001001101111111010100100101111100000010010010
+extracted_key : Please check the folder extracted_keys/c2670_K64_0/ for extracted key variants
+1. 0X1X1X001XX00011X1X11X10XX000000001X1XX0010XX1X0001X01X1XX10111X
+2. 1X0X0X110XX11100X0X00X01XX111111110X0XX1101XX0X1110X10X0XX01000X
+SCOPE Attack for c2670_K64_0.bench Ended,    Runtime: 5.83 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c2670_K128_0.bench
+COPE metric: 0.11782124931 %
+original_key :  10011010111011110101101100100101111101111010001110110100000100010110111110101100001000000111010101100011001000010001010101001010
+extracted_key : Please check the folder extracted_keys/c2670_K128_0/ for extracted key variants
+1. 0X10X100010XXX001X1XX1001XX0100000XX10000XX00X100X0010X0X01X1110001X00001000X111XX0101X0XXXX00X0100X11101100111011001X1110100011
+2. 1X01X011101XXX110X0XX0110XX1011111XX01111XX11X011X1101X1X10X0001110X11110111X000XX1010X1XXXX11X1011X00010011000100110X0001011100
+SCOPE Attack for c2670_K128_0.bench Ended,    Runtime: 12.16 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+SCOPE Attack for c3540_K32_0.bench
+COPE metric: 0.110613843779 %
+original_key :  00001001001101110100101110011110
+extracted_key : Please check the folder extracted_keys/c3540_K32_0/ for extracted key variants
+1. X10XX100X100XX0110XX0X0XX100000X
+2. X01XX011X011XX1001XX1X1XX011111X
+SCOPE Attack for c3540_K32_0.bench Ended,    Runtime: 3.49 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+SCOPE Attack for c3540_K64_0.bench
+COPE metric: 0.0804198489703 %
+original_key :  1000110010010011111000000110001100011010110110110100100011011111
+extracted_key : Please check the folder extracted_keys/c3540_K64_0/ for extracted key variants
+1. 0X110000X110XXXX0XX1X10XX00101X0111X0111001101X01X110XXX00X00000
+2. 1X001111X001XXXX1XX0X01XX11010X1000X1000110010X10X001XXX11X11111
+SCOPE Attack for c3540_K64_0.bench Ended,    Runtime: 6.64 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+SCOPE Attack for c3540_K128_0.bench
+COPE metric: 0.0593263103113 %
+original_key :  10110010001011111011001001011101110100010011111110111010010111110010001000001100001101101110111001011100000010101000001010100100
+extracted_key : Please check the folder extracted_keys/c3540_K128_0/ for extracted key variants
+1. XX10010X11X110X1X100X11X1X1X10X0X000XXX0X1X0100XX1XX110X1XX11X00110XXX011X1X10X111XX1011X0XX00XX10XX00111011X00XX1X110X1X11X1011
+2. XX01101X00X001X0X011X00X0X0X01X1X111XXX1X0X1011XX0XX001X0XX00X11001XXX100X0X01X000XX0100X1XX11XX01XX11000100X11XX0X001X0X00X0100
+SCOPE Attack for c3540_K128_0.bench Ended,    Runtime: 13.62 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+SCOPE Attack for c5315_K32_0.bench
+COPE metric: 0.0850274174637 %
+original_key :  11010001000110100101101100101011
+extracted_key : Please check the folder extracted_keys/c5315_K32_0/ for extracted key variants
+1. 01XX0110110X0X01001X0X1XXX01X0X1
+2. 10XX1001001X1X10110X1X0XXX10X1X0
+SCOPE Attack for c5315_K32_0.bench Ended,    Runtime: 4.59 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+
+SCOPE Attack for c5315_K64_0.bench
+COPE metric: 0.0805854298048 %
+original_key :  1001010100101101100001110111101011100100010111010011110100000010
+extracted_key : Please check the folder extracted_keys/c5315_K64_0/ for extracted key variants
+1. 011X11101X011X100111000X1011XX01X01XX0111X101X10010X0X100X1X10X1
+2. 100X00010X100X011000111X0100XX10X10XX1000X010X01101X1X011X0X01X0
+SCOPE Attack for c5315_K64_0.bench Ended,    Runtime: 8.69 Seconds
+------------------------------------------------------------------------------------------------------------------
+
+SCOPE Attack for c5315_K128_0.bench
+COPE metric: 0.0602032252269 %
+original_key :  11010011000000011001100101111111010001001110001001110111000100101100101100011100001001101111100000010101011111001101101010110100
+extracted_key : Please check the folder extracted_keys/c5315_K128_0/ for extracted key variants
+1. 001010100X011X1000X0X110XX10X0X01X01101X000110X1XXX0X0X11X100101X01111X10X11001X11X1XX0X01X00XX00X10X01XXXX0101XX01100010XX01110
+2. 110101011X100X0111X1X001XX01X1X10X10010X111001X0XXX1X1X00X011010X10000X01X00110X00X0XX1X10X11XX11X01X10XXXX1010XX10011101XX10001
+SCOPE Attack for c5315_K128_0.bench Ended,    Runtime: 17.95 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c6288_K32_0.bench
+COPE metric: 0.0238735855495 %
+original_key :  01101000000011001001111111110001
+extracted_key : Please check the folder extracted_keys/c6288_K32_0/ for extracted key variants
+1. 01010101X01X10100X00111X10111110
+2. 10101010X10X01011X11000X01000001
+SCOPE Attack for c6288_K32_0.bench Ended,    Runtime: 4.8 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c6288_K64_0.bench
+COPE metric: 0.026361602658 %
+original_key :  0001101110001100101001011001001000111011110110010111111001000010
+extracted_key : Please check the folder extracted_keys/c6288_K64_0/ for extracted key variants
+1. 01101000010010X011X001000101001XX01X1011000110011X11011000000110
+2. 10010111101101X100X110111010110XX10X0100111001100X00100111111001
+SCOPE Attack for c6288_K64_0.bench Ended,    Runtime: 9.3 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c6288_K128_0.bench
+COPE metric: 0.0268323027593 %
+original_key :  00001000011000010001111101010010001100100011111000110101001011111110000010001111011101010100101101011100011110111010101100001101
+extracted_key : Please check the folder extracted_keys/c6288_K128_0/ for extracted key variants
+1. 001001X11000XX1110010100100001XXX00X01011X11111010X01001X011010X1101010011010X0100111X1XX001010X010100001111XX100010001001X11110
+2. 110110X00111XX0001101011011110XXX11X10100X00000101X10110X100101X0010101100101X1011000X0XX110101X101011110000XX011101110110X00001
+SCOPE Attack for c6288_K128_0.bench Ended,    Runtime: 18.81 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c7552_K32_0.bench
+COPE metric: 0.135009751725 %
+original_key :  10111011111110010001011000000010
+extracted_key : Please check the folder extracted_keys/c7552_K32_0/ for extracted key variants
+1. X1X1XX0X000XX11X111X0001XX1XX00X
+2. X0X0XX1X111XX00X000X1110XX0XX11X
+SCOPE Attack for c7552_K32_0.bench Ended,    Runtime: 5.89 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c7552_K64_0.bench
+COPE metric: 0.070093360856 %
+original_key :  0000010110100010000001010111011011101111010111111010100100100011
+extracted_key : Please check the folder extracted_keys/c7552_K64_0/ for extracted key variants
+1. 11XX10X01XX10X010X11X1X0XXXX10X110XX000XX01001XXX1X0X1XXX0XX110X
+2. 00XX01X10XX01X101X00X0X1XXXX01X001XX111XX10110XXX0X1X0XXX1XX001X
+SCOPE Attack for c7552_K64_0.bench Ended,    Runtime: 11.46 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack for c7552_K128_0.bench
+COPE metric: 0.0827976719034 %
+original_key :  10111100101010010111001001011101001010101110111100010111010010100001001011101101011000111110000000111011010101001001000010101010
+extracted_key : Please check the folder extracted_keys/c7552_K128_0/ for extracted key variants
+1. X10X0XX10XX1X1X01X00X0X111X10X10110X1XXX01XX0XX01110XX0001X10XX11X0XXX110X01001X1X0XX10XX1010101111X00XX0X1X10100X1X11001X010X1X
+2. X01X1XX01XX0X0X10X11X1X000X01X01001X0XXX10XX1XX10001XX1110X01XX00X1XXX001X10110X0X1XX01XX0101010000X11XX1X0X01011X0X00110X101X0X
+SCOPE Attack for c7552_K128_0.bench Ended,    Runtime: 23.27 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack Runtime: 197.23 Seconds
+SCOPE Attack Ended
+==========================================  SCOPE Attack Ended  ==================================================
+

@@ -1,0 +1,6 @@
+c5315_K32Attack
+equivalent
+c5315_K64Attack
+equivalent
+c5315_K128Attack
+equivalent

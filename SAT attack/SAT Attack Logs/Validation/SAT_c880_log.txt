@@ -1,0 +1,6 @@
+c880_K32Attack
+equivalent
+c880_K64Attack
+equivalent
+c880_K128Attack
+equivalent

@@ -1,0 +1,6 @@
+c1908_K32Attack
+equivalent
+c1908_K64Attack
+equivalent
+c1908_K128Attack
+equivalent

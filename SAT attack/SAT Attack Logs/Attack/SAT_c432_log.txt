@@ -1,0 +1,30 @@
+c432_K32_Attack
+
+inputs=36 keys=32 outputs=7 gates=269
+iteration: 1; vars: 1534; clauses: 741; decisions: 231
+iteration: 2; vars: 2004; clauses: 1353; decisions: 1150
+iteration: 3; vars: 2474; clauses: 1903; decisions: 1779
+iteration: 4; vars: 2944; clauses: 674; decisions: 1894
+iteration: 5; vars: 3414; clauses: 1200; decisions: 2392
+iteration: 6; vars: 3884; clauses: 1779; decisions: 2494
+iteration: 7; vars: 4354; clauses: 658; decisions: 2618
+iteration: 8; vars: 4824; clauses: 1270; decisions: 2825
+iteration: 9; vars: 5294; clauses: 1856; decisions: 2911
+iteration: 10; vars: 5764; clauses: 2430; decisions: 3010
+iteration: 11; vars: 6234; clauses: 626; decisions: 3243
+iteration: 12; vars: 6704; clauses: 1146; decisions: 3321
+iteration: 13; vars: 7174; clauses: 1684; decisions: 3412
+iteration: 14; vars: 7644; clauses: 2202; decisions: 3563
+iteration: 15; vars: 8114; clauses: 2732; decisions: 3760
+iteration: 16; vars: 8584; clauses: 3301; decisions: 3826
+iteration: 17; vars: 9054; clauses: 3835; decisions: 3942
+iteration: 18; vars: 9524; clauses: 4385; decisions: 4005
+iteration: 19; vars: 9994; clauses: 4969; decisions: 4501
+iteration: 20; vars: 10464; clauses: 5453; decisions: 4692
+iteration: 21; vars: 10934; clauses: 5951; decisions: 4737
+iteration: 22; vars: 11404; clauses: 6419; decisions: 5433
+finished solver loop. fail_count = 0
+key=00111001001100001100001011100111
+iteration=22; backbones_count=0; cube_count=30238; cpu_time=0.315172; maxrss=19.2109
+
+
